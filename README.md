@@ -8,6 +8,9 @@
   <a href="https://colab.research.google.com/drive/15VJhIFP0v8HpAOymkro7GaD6OUYfmjW-?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white" alt="Colab" />
   </a>
+  <a href="https://public.tableau.com/views/WorldHappinessReport_16927055125430/OverallWorldHappinessReport?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="Colab" />
+  </a>
 </p>
 
 ### 🚨 Attention
